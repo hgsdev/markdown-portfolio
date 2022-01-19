@@ -1,6 +1,6 @@
-#Highlighting
+# Highlighting
 
-Below is a list of higlighting using markdown
+Below is a list of highlighting using markdown
 
 ## Italic
 
@@ -14,6 +14,6 @@ _This will also be italic_
 __This will also be bold__
 
 
-## Mixed higlighting
+## Mixed highlighting
 
 _You **can** combine them_
