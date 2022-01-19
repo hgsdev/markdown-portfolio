@@ -1,1 +1,19 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#Highlighting
+
+Below is a list of higlighting using markdown
+
+## Italic
+
+*This text will be italic*
+_This will also be italic_
+
+
+## Bold
+
+**This text will be bold**
+__This will also be bold__
+
+
+## Mixed higlighting
+
+_You **can** combine them_
